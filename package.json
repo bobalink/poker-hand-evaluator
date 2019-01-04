@@ -1,0 +1,18 @@
+{
+  "name": "poker-hand-evaluator",
+  "version": "1.0.0",
+  "description": "a sample project to evaluate a poker hand ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "poker",
+    "hand"
+  ],
+  "author": "Waverly Hinton",
+  "license": "ISC"
+}
+
+
+
